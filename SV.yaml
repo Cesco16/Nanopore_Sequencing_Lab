@@ -5,3 +5,6 @@ dependencies:
   - minimap2
   - samtools
   - sniffles
+  - clair3
+  - straglr
+  - whatshap
