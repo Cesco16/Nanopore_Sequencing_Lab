@@ -1,0 +1,8 @@
+name: GWAS
+channels:
+  - bioconda
+dependencies:
+  - r
+  - r-devtools
+  - r-adegenet
+  - r-glmnet
