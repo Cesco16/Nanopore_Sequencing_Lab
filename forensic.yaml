@@ -1,0 +1,11 @@
+name: forensic
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - minimap2
+  - samtools
+  - sniffles
+  - straglr
+  - bcftools
+  - whatshap
