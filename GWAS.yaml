@@ -6,3 +6,4 @@ dependencies:
   - r-devtools
   - r-adegenet
   - r-glmnet
+  - rpy2
