@@ -2,8 +2,4 @@
 
 <img src="nanosequencinglab.png" alt="Descrizione dell'immagine" width="300" />
 
-# ONTFlow - ONT data analysis workFlow
-
-This repository contains the snakemake workflows used to analyze samples from patients with repeat expansion disorders, sequenced with Oxford Nanopore Technologies.
-<!--
-The pipelines contained in this repository were used to process samples for the study:
+This repository contains the google colab notebooks and the .yaml file for building conda environments for the practical hands-on laboratory of DIFA summer school "Physics for a better planet".
