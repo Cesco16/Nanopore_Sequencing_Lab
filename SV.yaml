@@ -9,3 +9,8 @@ dependencies:
   - clair3
   - straglr
   - whatshap
+  - liftoff
+  - snpeff
+  - stranger
+  - annotsv
+  - bcftools
