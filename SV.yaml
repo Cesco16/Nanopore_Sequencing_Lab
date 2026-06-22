@@ -11,7 +11,7 @@ dependencies:
   - whatshap
   - liftoff
   - snpeff
-  - stranger
+  - stranger==0.9.5
   - annotsv
   - bcftools
   - ensembl-vep
